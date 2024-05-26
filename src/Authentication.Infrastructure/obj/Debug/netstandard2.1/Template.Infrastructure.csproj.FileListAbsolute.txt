@@ -1,0 +1,14 @@
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\bin\Debug\netstandard2.1\Authentication.Infrastructure.deps.json
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\bin\Debug\netstandard2.1\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\bin\Debug\netstandard2.1\Authentication.Infrastructure.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\bin\Debug\netstandard2.1\Authentication.Domain.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\bin\Debug\netstandard2.1\Authentication.Domain.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.AssemblyInfo.cs
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.355AE52C.Up2Date
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\obj\Debug\netstandard2.1\Authentication.Infrastructure.sourcelink.json

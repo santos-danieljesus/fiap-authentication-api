@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Authentication.Infrastructure
+build_property.ProjectDir = C:\Users\santo\Develop\Authentication-net8\src\Authentication.Infrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

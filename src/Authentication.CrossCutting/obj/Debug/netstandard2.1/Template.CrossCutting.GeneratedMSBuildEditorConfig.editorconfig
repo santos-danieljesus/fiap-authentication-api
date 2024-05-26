@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Authentication.CrossCutting
+build_property.ProjectDir = c:\Users\santo\Develop\Authentication-net8\src\Authentication.CrossCutting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

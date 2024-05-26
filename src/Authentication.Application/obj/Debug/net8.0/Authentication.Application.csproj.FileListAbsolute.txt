@@ -1,0 +1,17 @@
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Application.deps.json
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Application.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Application.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\bin\Debug\net8.0\Authentication.Infrastructure.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.AssemblyReference.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfo.cs
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.CoreCompileInputs.cache
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authenti.BD76F788.Up2Date
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\refint\Authentication.Application.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\Authentication.Application.pdb
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Application\obj\Debug\net8.0\ref\Authentication.Application.dll

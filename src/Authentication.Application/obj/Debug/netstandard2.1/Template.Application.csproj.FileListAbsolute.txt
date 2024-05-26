@@ -1,0 +1,16 @@
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Application.deps.json
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Application.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Application.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Domain.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Domain.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\bin\Debug\netstandard2.1\Authentication.Infrastructure.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.csproj.AssemblyReference.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.AssemblyInfo.cs
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.csproj.CoreCompileInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.D17F1E30.Up2Date
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Application\obj\Debug\netstandard2.1\Authentication.Application.sourcelink.json

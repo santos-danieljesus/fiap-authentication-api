@@ -1,0 +1,11 @@
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.deps.json
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfo.cs
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.csproj.CoreCompileInputs.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\refint\Authentication.Domain.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Domain\obj\Debug\net8.0\ref\Authentication.Domain.dll

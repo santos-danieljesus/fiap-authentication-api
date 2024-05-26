@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRASjnwfzQJouKzAHre3RhAXhZzHceIq7t6ufjPkOSYMRvtRqQbO+qWK0AC0D+klraiNWYRI+iVvC2/ovgCUXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

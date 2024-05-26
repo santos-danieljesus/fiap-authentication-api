@@ -1,0 +1,10 @@
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\bin\Debug\netstandard2.1\Authentication.Domain.deps.json
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\bin\Debug\netstandard2.1\Authentication.Domain.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\bin\Debug\netstandard2.1\Authentication.Domain.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.AssemblyInfo.cs
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.csproj.CoreCompileInputs.cache
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.dll
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.pdb
+c:\Users\santo\Develop\Authentication-net8\src\Authentication.Domain\obj\Debug\netstandard2.1\Authentication.Domain.sourcelink.json

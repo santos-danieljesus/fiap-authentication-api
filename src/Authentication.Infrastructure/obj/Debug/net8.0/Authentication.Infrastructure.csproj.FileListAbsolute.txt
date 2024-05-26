@@ -1,0 +1,15 @@
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\bin\Debug\net8.0\Authentication.Infrastructure.deps.json
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\bin\Debug\net8.0\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\bin\Debug\net8.0\Authentication.Infrastructure.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\bin\Debug\net8.0\Authentication.Domain.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\bin\Debug\net8.0\Authentication.Domain.pdb
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.AssemblyInfo.cs
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authenti.9F3EE465.Up2Date
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\refint\Authentication.Infrastructure.dll
+c:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\Authentication.Infrastructure.pdb
+C:\Users\santo\Develop\fiap-authentication-api\src\Authentication.Infrastructure\obj\Debug\net8.0\ref\Authentication.Infrastructure.dll
