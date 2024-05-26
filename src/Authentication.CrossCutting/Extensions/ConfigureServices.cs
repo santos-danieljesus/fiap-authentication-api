@@ -3,6 +3,8 @@ using Authentication.Domain.Repository;
 using Authentication.Infrastructure.Repository;
 using Template.Application.Services;
 using Template.Domain.Services;
+using Authentication.Domain.Services;
+using Authentication.Application.Services;
 
 namespace Authentication.CrossCutting.Extensions
 {
@@ -13,6 +15,7 @@ namespace Authentication.CrossCutting.Extensions
             services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<IReadRepository, ReadRepository>();
             services.AddScoped<IWriteRepository, WriteRepository>();
+            services.AddScoped<ITokenService, TokenService>();
             
             return services;
         }

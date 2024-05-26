@@ -1,19 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "eV8KUQXtbJMxsJApXoIaQ5fHCE3gsN5YYtRklwQOUhkcXURQCP9KYFy7/L8ug92Rs7WqZr7zl8m2yP/B72ldXA==",
+  "dgSpecHash": "LSBEpCU0UAvv7Mubi+SWKf8KzciLAMRWjPIpli6mRf9faHL+NJDFXhsUSuCMbn2LYzE9YmdEYs/Uj2TmgtngIw==",
   "success": true,
   "projectFilePath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj",
   "expectedPackageFiles": [
     "/home/danieljesus/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.5/microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
     "/home/danieljesus/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
-    "/home/danieljesus/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "/home/danieljesus/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/home/danieljesus/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
   "logs": []
 }

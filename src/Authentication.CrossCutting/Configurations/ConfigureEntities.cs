@@ -1,4 +1,5 @@
 using System.Data;
+using Authentication.Domain.Entities;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Npgsql;
@@ -13,6 +14,8 @@ namespace Authentication.CrossCutting.Configurations
             services.AddSingleton<IDbConnection>((connection) => new NpgsqlConnection(
                 connectionString
             ));
+
+            services.Configure<JwtConfig>(configuration.GetSection("JwtConfig"));
             
             return services;
         }

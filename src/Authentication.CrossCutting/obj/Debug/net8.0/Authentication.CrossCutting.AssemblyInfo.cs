@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Authentication.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182aac7989f6221c435701b0b9f0e2ecb27e97e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e56450723a0ca54f80f05e4b6aea6bcf6b1dc4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Authentication.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Authentication.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
