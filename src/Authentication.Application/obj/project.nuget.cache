@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UYOOrFGVXQulUrEF5m+HVIvErjtK3HPLukFdx7CsueoTny7i7O36XSYaePqhp+PbQfzdifogvQnUtzxNDg77zQ==",
+  "dgSpecHash": "2PXd35rXABTHOdI8Ka50Y9ROPBDbtl6EbZwAMoSaBQJTQR9xJlFumO0o2uPc4r2JaTgQ9+KIIACJJM4Izk3RvA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
+  "projectFilePath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

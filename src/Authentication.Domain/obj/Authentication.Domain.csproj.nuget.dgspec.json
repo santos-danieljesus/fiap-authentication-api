@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {}
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
         "projectName": "Authentication.Domain",
-        "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
+        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"

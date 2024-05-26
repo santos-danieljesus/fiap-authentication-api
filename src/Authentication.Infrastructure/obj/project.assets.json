@@ -266,8 +266,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-              "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+            "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+              "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
             }
           }
         }

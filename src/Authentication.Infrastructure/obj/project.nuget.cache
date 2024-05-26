@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KRASjnwfzQJouKzAHre3RhAXhZzHceIq7t6ufjPkOSYMRvtRqQbO+qWK0AC0D+klraiNWYRI+iVvC2/ovgCUXQ==",
+  "dgSpecHash": "RnN0kX2uwyAd4W2Ya+NbR3FpT3ocrw5pVYWC9Tu85OwPWbZAh0z1x/JdMeZijQAIVY3OWpqkleSJ5qFWh9s5tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
   "expectedPackageFiles": [

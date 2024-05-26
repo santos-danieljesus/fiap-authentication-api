@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0myLlaEk983wmHceKja0/n/iv1C8MU3I3EHlpGqNHtLKT/a+9hE42L4p0w6qcztdMrliUe/fpDZuebijQMkIlg==",
+  "dgSpecHash": "crxM+QLw8gTcHOdvApcPeMcasAEVmo7QF5jkxLUuWQrUiitYHML/wiLbNXSGcE9yijejs9T7Jn8pZOhTFuy07g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

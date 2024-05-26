@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {}
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
         "projectName": "Authentication.Application",
-        "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
+        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\obj\\",
+        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
               },
               "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
         "projectName": "Authentication.CrossCutting",
-        "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -101,11 +101,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
-                "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj"
+              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
+                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj"
               },
-              "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
               },
               "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
@@ -165,14 +165,14 @@
         }
       }
     },
-    "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
         "projectName": "Authentication.Domain",
-        "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
+        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -245,8 +245,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "c:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
               }
             }
           }
