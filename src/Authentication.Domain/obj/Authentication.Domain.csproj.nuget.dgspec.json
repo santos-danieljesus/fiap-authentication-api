@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {}
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj",
         "projectName": "Authentication.Domain",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

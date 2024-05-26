@@ -23,30 +23,18 @@ namespace Authentication.Infrastructure.Repository
         {
             try
             {
-                Connection.Open();
+                // Connection.Open();
                 var user = Connection.Query<AuthenticateUser>(
-                    "SELECT * FROM AUT.TB_AUTHENTICATION WHERE USERNAME = @username", 
+                    "SELECT * FROM TB_AUTHENTICATION WHERE USERNAME = @username",
                     new {
-                        @username
-                    }
-                ).FirstOrDefault();
-
-                if (user == null)
-                {
-                    return new AuthenticateUser();
-                }
-
-                return user;
+                        @username = username
+                    }).FirstOrDefault();
+                return user ?? new AuthenticateUser();
             }
             catch (Exception ex)
             {
                 Logger.LogError(ex, "Error to query username");
                 return new AuthenticateUser();
-            }
-            finally
-            {
-                Connection.Close();
-                Connection.Dispose();
             }
         }
     }
