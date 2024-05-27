@@ -4,5 +4,6 @@ namespace Authentication.Domain.Entities
     {
         public required string PrivateKey { get; set; }
         public required string PublicKey { get; set; }
+        public int Expires { get; set; }
     }
 }

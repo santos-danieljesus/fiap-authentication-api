@@ -19,16 +19,16 @@ namespace Template.Api.Controllers
 
         [HttpPost]
         [Route("/auth")]
-        public IActionResult AuthenticateUser([FromBody] AuthenticationRequest request)
+        public async Task<ActionResult> AuthenticateUser([FromBody] AuthenticationRequest request)
         {
-            var response = Mediator.Send(request);
+            var response = await Mediator.Send(request);
 
-            if (response.IsCompleted)
+            if (!string.IsNullOrEmpty(response.Token))
             {
                 return Ok(response);
             }
 
-            return BadRequest(response);
+            return Unauthorized();
         }
     }
 }

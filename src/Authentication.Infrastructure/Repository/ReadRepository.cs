@@ -5,10 +5,11 @@ using Authentication.Domain.Repository;
 using Template.Domain.Entities;
 using Dapper;
 using System.Linq;
+using Authentication.Domain.Entities;
 
 namespace Authentication.Infrastructure.Repository
 {
-    public class ReadRepository : IReadRepository
+    public class ReadRepository : IReadRepository<AuthenticateUser>
     {
         protected readonly IDbConnection Connection;
         protected ILogger<ReadRepository> Logger;
@@ -19,22 +20,25 @@ namespace Authentication.Infrastructure.Repository
             Logger = logger;
         }
 
-        public AuthenticateUser GetUser(string username)
+        public ApiResponse<AuthenticateUser> GetUser(string username)
         {
             try
             {
-                // Connection.Open();
                 var user = Connection.Query<AuthenticateUser>(
                     "SELECT * FROM TB_AUTHENTICATION WHERE USERNAME = @username",
                     new {
                         @username = username
                     }).FirstOrDefault();
-                return user ?? new AuthenticateUser();
+                
+                if (user == null)
+                    return new ApiResponse<AuthenticateUser>(false, new AuthenticateUser());
+
+                return new ApiResponse<AuthenticateUser>(true, user);
             }
             catch (Exception ex)
             {
                 Logger.LogError(ex, "Error to query username");
-                return new AuthenticateUser();
+                return new ApiResponse<AuthenticateUser>(false, new AuthenticateUser());
             }
         }
     }

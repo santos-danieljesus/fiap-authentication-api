@@ -91,3 +91,11 @@ C:/Users/santo/Develop/fiap-authentication-api/src/Authentication.Api/obj/Debug/
 /home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/obj/Debug/net8.0/Authentication.Api.pdb
 /home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/obj/Debug/net8.0/Authentication.Api.genruntimeconfig.cache
 /home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/obj/Debug/net8.0/ref/Authentication.Api.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
