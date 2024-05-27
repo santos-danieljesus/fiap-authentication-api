@@ -28,7 +28,7 @@ namespace Template.Api.Controllers
                 return Ok(response);
             }
 
-            return Unauthorized();
+            return Unauthorized(response);
         }
     }
 }
