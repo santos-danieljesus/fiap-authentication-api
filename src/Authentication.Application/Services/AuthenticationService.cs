@@ -1,24 +1,33 @@
+using Authentication.Domain.Entities;
 using Authentication.Domain.Repository;
 using Microsoft.Extensions.Logging;
+using Template.Domain.Entities;
 using Template.Domain.Services;
 
 namespace Template.Application.Services
 {
-    public class AuthenticationService : IAuthenticationService
+    public class AuthenticationService : IAuthenticationService<AuthenticateUser>
     {
         protected ILogger<AuthenticationService> Logger { get;}
-        protected IReadRepository ReadRepository;
+        protected IReadRepository<AuthenticateUser> ReadRepository;
         protected IWriteRepository WriteRepository;
-        public AuthenticationService(ILogger<AuthenticationService> logger, IReadRepository readRepository, IWriteRepository writeRepository)
+        public AuthenticationService(ILogger<AuthenticationService> logger, IReadRepository<AuthenticateUser> readRepository, IWriteRepository writeRepository)
         {
             Logger = logger;
             ReadRepository = readRepository;
             WriteRepository = writeRepository;
         }
-        public void AuthenticateUser(string username, string password)
+        public ApiResponse<AuthenticateUser> AuthenticateUser(string username, string password)
         {
-            ReadRepository.GetUser(username);
-            throw new System.NotImplementedException();
+            ApiResponse<AuthenticateUser> user = ReadRepository.GetUser(username);
+
+            if (user.IsValid && !string.IsNullOrEmpty(user.Data.Password))
+            {
+                if (user.Data.Password.Equals(password))
+                    return user;
+            }
+
+            return new ApiResponse<AuthenticateUser>(false, new AuthenticateUser());
         }
 
         public void DeleteUser(string username, string password)

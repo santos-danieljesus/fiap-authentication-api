@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Api\\Authentication.Api.csproj": {}
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/Authentication.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Api\\Authentication.Api.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/Authentication.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Api\\Authentication.Api.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/Authentication.Api.csproj",
         "projectName": "Authentication.Api",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Api\\Authentication.Api.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Api\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/Authentication.Api.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj"
               },
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj"
               }
             }
           }
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj",
         "projectName": "Authentication.Application",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -108,11 +103,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj"
               },
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj"
               }
             }
           }
@@ -121,11 +116,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -135,6 +125,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "System.ComponentModel.Annotations": {
               "target": "Package",
@@ -157,21 +151,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj",
         "projectName": "Authentication.CrossCutting",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.CrossCutting\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/Authentication.CrossCutting.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.CrossCutting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -183,14 +177,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Application\\Authentication.Application.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Application/Authentication.Application.csproj"
               },
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj"
               },
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj"
               }
             }
           }
@@ -199,11 +193,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -243,21 +232,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj",
         "projectName": "Authentication.Domain",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -275,11 +264,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -301,21 +285,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
+    "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+        "projectUniqueName": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj",
         "projectName": "Authentication.Infrastructure",
-        "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Infrastructure\\obj\\",
+        "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/Authentication.Infrastructure.csproj",
+        "packagesPath": "/home/danieljesus/.nuget/packages/",
+        "outputPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danieljesus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -327,8 +311,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
-                "projectPath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj": {
+                "projectPath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj"
               }
             }
           }
@@ -337,11 +321,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -373,7 +352,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,9 +1,9 @@
-using Template.Domain.Entities;
+using Authentication.Domain.Entities;
 
 namespace Authentication.Domain.Repository
 {
-    public interface IReadRepository
+    public interface IReadRepository<T>
     {
-        AuthenticateUser GetUser(string username);
+        ApiResponse<T> GetUser(string username);
     }
 }

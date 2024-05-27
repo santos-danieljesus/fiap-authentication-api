@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yqQ2c93T5hCfJJHgwF4qMj9+ExCM8dEkpZ1XcjfIW3UjhtxcMJSHin2/I6Ap0Uyy3X38nX4cHFxbApx5tE7NfQ==",
+  "dgSpecHash": "09BMoBjx6TP3ZNISayrgW/duDaYdrVXcL7bktZvFQ51zE6A7kKR+Wj5T9TiGso1m+zYpF6ET1oJrQ8oGfKYjzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santo\\Develop\\fiap-authentication-api\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+  "projectFilePath": "/home/danieljesus/develop/fiap-authentication-api/src/Authentication.Domain/Authentication.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
